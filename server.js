@@ -44,12 +44,24 @@ app.post("/api/notes", function(req, res) {
 
 
 
-//app.delete("/api/notes/:id", function(req, res){
-  //let notes =JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
-  //let noteID = req.params.id;
-  //let newID = 0;
-  //console.log(`Deleting note with ID ${noteID}`);
-//});
+app.delete("/api/notes/:id", function(req, res){
+  let notes =JSON.parse(fs.readFileSync("./db/db.json", "utf8"));
+  let noteID = req.params.id;
+  let newID = 0;
+  console.log(`Deleting note: ${noteID}`);
+  notes = notes.filter(saved => {
+    return saved.id != noteID;
+});
+
+  for (saved of notes){
+    saveid = newID.toString();
+    newID++;
+  };
+
+
+  fs.writeFileSync("./db/db.json", JSON.stringify(savedNotes));
+  res.json(savedNotes);
+});
 
 // Starts the server to begin listening
 // =============================================================
