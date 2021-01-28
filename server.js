@@ -54,13 +54,13 @@ app.delete("/api/notes/:id", function(req, res){
 });
 
   for (saved of notes){
-    saveid = newID.toString();
+    saved.id = newID.toString();
     newID++;
   };
 
 
-  fs.writeFileSync("./db/db.json", JSON.stringify(savedNotes));
-  res.json(savedNotes);
+  fs.writeFileSync("./db/db.json", JSON.stringify(notes));
+  res.json(notes);
 });
 
 // Starts the server to begin listening
