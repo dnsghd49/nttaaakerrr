@@ -1,8 +1,8 @@
 # Note Taker
-  [![GitHub contributors](https://img.shields.io/github/contributors/dnsghd49/StrapDown.js.svg)](https://GitHub.com/dnsghd49/nttaaakerrr/graphs/contributors/)
+  [![GitHub contributors](https://img.shields.io/github/contributors/dnsghd49/nttaaakerrr.svg)](https://GitHub.com/dnsghd49/nttaaakerrr/graphs/contributors/)
   [![Build Status](https://img.shields.io/github/forks/dnsghd49/nttaaakerrr.svg)](https://github.com/dnsghd49/nttaaakerrr/network/)
   [![Build Status](https://img.shields.io/github/stars/dnsghd49/nttaaakerrr.svg)](https://github.com/dnsghd49/nttaaakerrr/)
-  [![GitHub issues](https://img.shields.io/github/issues/dnsghd49/StrapDown.js.svg)](https://GitHub.com/dnsghd49/nttaaakerrr/issues/)
+  [![GitHub issues](https://img.shields.io/github/issues/dnsghd49/nttaaakerrr.svg)](https://GitHub.com/dnsghd49/nttaaakerrr/issues/)
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 
