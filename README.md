@@ -10,6 +10,15 @@
 
 This web application can create and save the notes that user created. It can also delete the note by simplly select the note that you want to delete and click the delete button.
 
+## Screenshots
+
+Main page
+![screenshot](https://github.com/dnsghd49/nttaaakerrr/blob/main/assets/img/screenshot.PNG)
+Added Notes
+![screenshot](https://github.com/dnsghd49/nttaaakerrr/blob/main/assets/img/yesNotes.PNG)
+Removed Note#0 and #2
+![screenshot](https://github.com/dnsghd49/nttaaakerrr/blob/main/assets/img/notesRemoved.PNG)
+
 ## Table of Contents 
 
 * [Installation](#installation)
