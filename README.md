@@ -12,7 +12,7 @@ This web application can create and save the notes that user created. It can als
 
 ## Deployed link
 
-https://nameless-earth-10198.herokuapp.com/
+https://limitless-eyrie-37825.herokuapp.com/
 
 ## Screenshots
 
