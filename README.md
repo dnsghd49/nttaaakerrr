@@ -54,4 +54,4 @@ node server.js
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at aaronnoh0409@gmail.com. You can find more of my work at [undefined](https://github.com/undefined/).
+If you have any questions about the repo, open an issue or contact me directly at aaronnoh0409@gmail.com. You can find more of my work at [dnsghd49](https://github.com/dnsghd49/).
