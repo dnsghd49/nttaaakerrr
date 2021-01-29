@@ -10,6 +10,10 @@
 
 This web application can create and save the notes that user created. It can also delete the note by simplly select the note that you want to delete and click the delete button.
 
+## Deployed link
+
+https://nameless-earth-10198.herokuapp.com/
+
 ## Screenshots
 
 Main page
