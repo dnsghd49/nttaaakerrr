@@ -13,15 +13,15 @@ app.use(express.urlencoded({extended: true}));
 
 
 //html routes
-app.get("/notes", function(req, res){
+app.get("/notes", function(_req, res){
   res.sendFile(path.join(mainDir, "notes.html"));
 });
 
-app.get("/api/notes", function(req, res) {
+app.get("/api/notes", function(_req, res) {
   res.sendFile(path.join(__dirname, "/db/db.json"));
 });
 
-app.get("/", function(req, res) {
+app.get("/", function(_req, res) {
   res.sendFile(path.join(mainDir, "index.html"));
 });
 
