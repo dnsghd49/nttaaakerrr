@@ -8,7 +8,7 @@
 
 ## Description
 
-This web application can create and save the notes that the user wants. It can also delete the notes by simply select the notes that you want to delete by clicking the delete button.
+This web application can create and save the notes that the user wants. It can also delete the selected notes by clicking the delete button.
 
 ## Deployed link
 
