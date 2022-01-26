@@ -29,8 +29,6 @@ Removed Note#0 and #2
 
 * [Usage](#usage)
 
-* [Contributing](#contributing)
-
 * [Questions](#questions)
 
 ## Installation
