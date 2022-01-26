@@ -23,14 +23,6 @@ Added Notes
 Removed Note#0 and #2
 ![screenshot](https://github.com/dnsghd49/nttaaakerrr/blob/main/assets/img/notesRemoved.PNG)
 
-## Table of Contents 
-
-* [Installation](#installation)
-
-* [Usage](#usage)
-
-* [Questions](#questions)
-
 ## Installation
 
 To install necessary dependencies, run the following command:
