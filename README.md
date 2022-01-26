@@ -31,8 +31,6 @@ Removed Note#0 and #2
 
 * [Contributing](#contributing)
 
-* [Tests](#tests)
-
 * [Questions](#questions)
 
 ## Installation
@@ -46,15 +44,6 @@ npm install
 ## Usage
 
 A solid note taking web application for everyone!
-
-
-## Tests
-
-To run tests, run the following command:
-
-```
-node server.js
-```
 
 ## Questions
 
